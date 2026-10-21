@@ -1,8 +1,3 @@
----
-layout: default
-title: Outbreak VIP Sync — Privacy Policy
----
-
 # Outbreak VIP Sync — Privacy Policy
 
 **Effective Date:** October 21, 2026  

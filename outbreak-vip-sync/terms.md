@@ -1,8 +1,3 @@
----
-layout: default
-title: Outbreak VIP Sync — Terms of Service
----
-
 # Outbreak VIP Sync — Terms of Service
 
 **Effective Date:** October 21, 2026  
